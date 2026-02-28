@@ -1,4 +1,38 @@
-<h1>Hi, I’m Ram Shrivastava—a frontend and blockchain developer, philosopher, and poet. I love crafting sleek, interactive web experiences while exploring the decentralized world of blockchain. By day, I code; by night, I ponder life’s mysteries, write poetry, and get lost in anime or books. Gaming, music, and deep conversations fuel my creativity, and I thrive on innovation, problem-solving, and storytelling. Whether I’m building the future of the web or reflecting on life’s complexities, I’m always learning, creating, and questioning. Because in both code and poetry, every line tells a story.</h1>
+<h1>👋 Hi, I'm Ram Shrivastava
+
+🚀 BCA (Cloud Computing & Virtualization) Student
+💡 Full Stack Developer
+🧠 AI & Automation Enthusiast
+🏆 Leading Teams in Various Hackathons
+
+I build systems that solve real problems — not just projects that look good in screenshots.
+
+🧠 What I Do
+
+🔹 Build scalable web applications
+
+🔹 Design secure backend architectures
+
+🔹 Create AI-powered workflows
+
+🔹 Automate business processes
+
+🔹 Lead teams & ship products
+
+Currently exploring:
+
+Machine Learning
+
+AI Agents
+
+Cloud Architecture
+
+Intelligent Automation
+
+🛠 Tech Stack
+💻 Languages
+
+JavaScript</h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
